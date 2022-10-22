@@ -4,4 +4,6 @@
 
 ## `week-of-year`
 
-![](http://dynamic-svgs-midzdotdev.vercel.app/api/week-of-year.svg)
+[`https://dynamic-svgs.midz.dev/api/week-of-year.svg`](https://dynamic-svgs.midz.dev/api/week-of-year.svg)
+
+![](https://dynamic-svgs.midz.dev/api/week-of-year.svg)
