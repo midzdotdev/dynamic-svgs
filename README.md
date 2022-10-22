@@ -1,6 +1,6 @@
 # dynamic-svgs
 
-![](https://img.shields.io/github/deployments/midzdotdev/dynamic-svgs/production)
+![](https://img.shields.io/github/deployments/midzdotdev/dynamic-svgs/production?label=vercel&logo=vercel)
 
 ## `week-of-year`
 
