@@ -12,7 +12,12 @@ export default (req) =>
   });
 
 const getWeekNumberSvg = () =>
-  html`<svg viewBox="0 0 80 20" height="50px">
+  html`<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 80 20"
+    height="50px"
+  >
     <rect width="100%" height="100%" fill="white" />
     <text
       x="50%"
